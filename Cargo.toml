@@ -2,7 +2,7 @@
 name = "rust-blockchain"
 version = "0.1.0"
 authors = ["Robbie <robbiekruszynski@gmail.com>"]
-edition = "2020"
+edition = "2018"
 
 [lib]
 name = "blockchainlib"
@@ -13,3 +13,4 @@ name = "blockchain"
 path = "src/main.rs"
 
 [dependencies]
+hex = "0.4.2"
