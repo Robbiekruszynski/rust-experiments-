@@ -1,5 +1,5 @@
 [package]
-name = "rust + blockchain"
+name = "rust-blockchain"
 version = "0.1.0"
 authors = ["Robbie <robbiekruszynski@gmail.com>"]
 edition = "2020"
