@@ -1,0 +1,15 @@
+[package]
+name = "rust + blockchain"
+version = "0.1.0"
+authors = ["Robbie <robbiekruszynski@gmail.com>"]
+edition = "2020"
+
+[lib]
+name = "blockchainlib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "blockchain"
+path = "src/main.rs"
+
+[dependencies]
